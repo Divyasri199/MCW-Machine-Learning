@@ -55,7 +55,7 @@ Duration: 30 minutes
 
 Azure Databricks is an Apache Spark-based analytics platform optimized for Azure that supports data engineering and machine learning and deep learning workloads.
 
-1. In the [Azure Portal](https://portal.azure.com), select **+ Create a resource**, then type "Azure Databricks" into the search bar. Select Azure Databricks from the results.
+1. In the [Azure Portal](https://portal.azure.com), select **+ Create a resource**, then type "Azure Databricks <inject key="DeploymentID" />" into the search bar. Select Azure Databricks from the results.
 
     ![Azure Databricks is entered into the search field. Azure Databricks is selected from the search results list type-ahead suggestion.](images/create-azure-databricks-resource-01.png 'Create a resource')
 
